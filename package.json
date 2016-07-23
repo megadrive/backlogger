@@ -1,0 +1,27 @@
+{
+  "name": "backlogger",
+  "version": "0.0.1",
+  "description": "A CLI utility to track backlogged games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megadrive/backlogger.git"
+  },
+  "author": "Megadrive <a.simeon@gmail.com> (http://megadriven.net/)",
+  "license": "ISC",
+  "bin": {
+    "backlogger": "backlogger.js"
+  },
+  "bugs": {
+    "url": "https://github.com/megadrive/backlogger/issues"
+  },
+  "homepage": "https://github.com/megadrive/backlogger#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "locallydb": "0.0.9"
+  }
+}

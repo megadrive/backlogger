@@ -1,0 +1,41 @@
+{
+    "header": {
+        "$created": "2016-07-22T08:40:41.502Z",
+        "$updated": "2016-07-23T15:11:26.440Z",
+        "lcid": 5
+    },
+    "items": [{
+        "name": "VIDEO GAME",
+        "platform": "snes",
+        "weight": 1,
+        "date": 1469278270222,
+        "status": "unfinished",
+        "cid": 0,
+        "$created": "2016-07-23T12:51:10.222Z",
+        "$updated": "2016-07-23T12:51:10.222Z"
+    }, {
+        "name": "Sonic the Hedgehog",
+        "platform": "genesis",
+        "date": 1469286285298,
+        "status": "unfinished",
+        "cid": 2,
+        "$created": "2016-07-23T15:04:45.298Z",
+        "$updated": "2016-07-23T15:04:45.298Z"
+    }, {
+        "name": "Sonic the Hedgehog 2",
+        "platform": "genesis",
+        "date": 1469286293683,
+        "status": "unfinished",
+        "cid": 3,
+        "$created": "2016-07-23T15:04:53.683Z",
+        "$updated": "2016-07-23T15:04:53.683Z"
+    }, {
+        "name": "Sonic the Hedgehog 3",
+        "platform": "genesis",
+        "date": 1469286302716,
+        "status": "finished",
+        "cid": 5,
+        "$created": "2016-07-23T15:05:02.716Z",
+        "$updated": "2016-07-23T15:11:26.440Z"
+    }]
+}
